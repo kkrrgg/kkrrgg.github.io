@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "IoTc"
 title_separator          : "-"
 name                     : &name "Michael Rose"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+description              : &description "quiere controlar sus cosas sin cuent@s chinos ?"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
 repository               : 
